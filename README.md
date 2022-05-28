@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RDdev04
-- 👀 I’m interested in ... android development
+- 👀 I’m interested in ... mobile app development
 - 🌱 I’m currently learning ... android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
