@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RDdev04<br>👀 I’m interested in ... mobile app development<br>🌱 I’m currently learning ... android<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
+👋 Hi, I’m Rohit Desai<br>👀 I’m interested in ... mobile app development<br>🌱 I’m currently learning ... android<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...
 
 
 ## 🌐 Socials:
